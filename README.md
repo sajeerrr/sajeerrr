@@ -25,8 +25,8 @@
 
 
 ## 📫 Contact
-- Email: yourmail@gmail.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- Email: sajeerfm93@gmail.com  
+- LinkedIn: www.linkedin.com/in/sajeerfm
 
 
 <br>
