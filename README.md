@@ -31,4 +31,31 @@
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+
 ![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00F7FF&center=true&width=550&lines=I+Love+Coding;Building+Web+Apps;Django+Developer" />
+</p>
+
+
+- Pacman
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
