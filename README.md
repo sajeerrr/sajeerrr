@@ -22,10 +22,10 @@
 ```python
 class Sajeer:
     def __init__(self):
-        self.name      = "Sajeer FM"
+        self.name      = "Sajeer F M"
         self.role      = "Full Stack Developer"
         self.education = "CS Student"
-        self.location  = "Kerala, India 🇮🇳"
+        self.location  = "Tamil Nadu, India 🇮🇳"
         self.stack     = ["Django", "Python", "MySQL"]
         self.interests = ["Web Apps", "AI Systems"]
         self.available = True # Open to internships!
