@@ -20,7 +20,7 @@
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding GIF" width="420" height="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class Sajeer:
