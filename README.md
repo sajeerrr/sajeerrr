@@ -17,9 +17,6 @@
 
 ---
 
-<!-- About Me Section -->
-## 🧑‍💻 About Me
-
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```python
@@ -27,15 +24,14 @@ class Sajeer:
     def __init__(self):
         self.name      = "Sajeer FM"
         self.role      = "Full Stack Developer"
-        self.education = "Computer Science Student"
+        self.education = "CS Student"
         self.location  = "Kerala, India 🇮🇳"
         self.stack     = ["Django", "Python", "PostgreSQL"]
-        self.interests = ["Scalable Web Apps", "AI Systems",
-                          "Cloud Deployment"]
+        self.interests = ["Web Apps", "AI Systems", "Cloud"]
         self.available = True  # Open to internships!
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something great.")
+        print("Thanks for visiting!")
 
 me = Sajeer()
 me.say_hi()
