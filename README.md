@@ -146,7 +146,7 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sajeer_FM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajeerrr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sajeer_FM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajeerfm)
 [![Gmail](https://img.shields.io/badge/Gmail-sajeerfm93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajeerfm93@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@sajeerrr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajeerrr)
 
