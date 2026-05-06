@@ -141,23 +141,6 @@ me.say_hi()
 
 ---
 
-<!-- What I'm currently doing -->
-## 🎯 Current Focus
-
-<div align="center">
-
-| Area | Status |
-|------|--------|
-| 🌐 Django REST API Development | 🟢 Active |
-| ☁️ AWS Cloud Deployment | 🟡 Learning |
-| 🐳 Docker & Containerization | 🟡 Learning |
-| 🤖 AI-Integrated Web Apps | 🟢 Active |
-| 📱 Responsive Frontend Design | 🟢 Active |
-
-</div>
-
----
-
 <!-- Connect Section -->
 ## 🤝 Let's Connect
 
