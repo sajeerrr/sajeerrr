@@ -20,21 +20,19 @@
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
+<img align="right" alt="Coding GIF" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class Sajeer:
     def __init__(self):
-        self.name        = "Sajeer F M"
-        self.role        = "Full Stack Developer"
-        self.education   = "Computer Science Student"
-        self.location    = "Tamil Nadu, India 🇮🇳"
-        self.stack       = ["Django", "Python", "MySQL"]
-        self.interests   = ["Scalable Web Apps", "AI Systems",
-                            "Cloud Deployment"]
-        self.available   = True  # Open to internships!
+        self.name      = "Sajeer FM"
+        self.role      = "Full Stack Developer"
+        self.education = "Computer Science Student"
+        self.location  = "Kerala, India 🇮🇳"
+        self.stack     = ["Django", "Python", "PostgreSQL"]
+        self.interests = ["Scalable Web Apps", "AI Systems",
+                          "Cloud Deployment"]
+        self.available = True  # Open to internships!
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something great.")
@@ -43,18 +41,13 @@ me = Sajeer()
 me.say_hi()
 ```
 
-- 🔭 Currently building full-stack **Django** projects  
-- 🌱 Learning **backend architecture** & **cloud deployment**  
-- 💡 Passionate about **AI-powered** web systems  
-- 🤝 Open to **internships** & **collaborations**  
-- ⚡ Fun fact: I debug with `print()` and I'm not ashamed  
+- 🔭 Currently building full-stack **Django** projects
+- 🌱 Learning **backend architecture** & **cloud deployment**
+- 💡 Passionate about **AI-powered** web systems
+- 🤝 Open to **internships** & **collaborations**
+- ⚡ Fun fact: I debug with `print()` and I'm not ashamed
 
-  </td>
-    <td valign="center" width="45%" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" width="340"/>
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
