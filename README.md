@@ -26,9 +26,9 @@ class Sajeer:
         self.role      = "Full Stack Developer"
         self.education = "CS Student"
         self.location  = "Kerala, India 🇮🇳"
-        self.stack     = ["Django", "Python", "PostgreSQL"]
-        self.interests = ["Web Apps", "AI Systems", "Cloud"]
-        self.available = True  # Open to internships!
+        self.stack     = ["Django", "Python", "MySQL"]
+        self.interests = ["Web Apps", "AI Systems"]
+        self.available = True # Open to internships!
 
     def say_hi(self):
         print("Thanks for visiting!")
