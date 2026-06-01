@@ -1,147 +1,71 @@
-<div align="center">
-
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sajeer%20FM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Django%20%7C%20Python&descAlignY=58&descAlign=50&descColor=a78bfa" width="100%"/>
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Building+Scalable+Web+Applications;🐍+Python+%26+Django+Specialist;☁️+Exploring+Cloud+%26+AI+Systems;🎓+CS+Student+%7C+Open+to+Internships)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=sajeerrr&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajeerfm)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajeerfm93@gmail.com)
-
-</div>
-
----
-
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-```python
-class Sajeer:
-    def __init__(self):
-        self.name      = "Sajeer F M"
-        self.role      = "Full Stack Developer"
-        self.education = "CS Student"
-        self.location  = "Tamil Nadu, India 🇮🇳"
-        self.stack     = ["Django", "Python", "MySQL"]
-        self.interests = ["Web Apps", "AI Systems"]
-        self.available = True # Open to internships!
-
-    def say_hi(self):
-        print("Thanks for visiting!")
-
-me = Sajeer()
-me.say_hi()
+```
+$ whoami
 ```
 
-- 🔭 Currently building full-stack **Django** projects
-- 🌱 Learning **backend architecture** & **cloud deployment**
-- 💡 Passionate about **AI-powered** web systems
-- 🤝 Open to **internships** & **collaborations**
-- ⚡ Fun fact: I debug with `print()` and I'm not ashamed
+<h1 align="left"> Hi there, I'm <a href="https://www.linkedin.com/in/sajeerfm">Sajeer</a> </h1>
 
-<br clear="right"/>
+### Full Stack Developer • Django • Python • AI
 
----
+-----------------------------------------------------------
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack & Tools
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
 
-<div align="center">
+✨ Software Developer | Python Developer | MCA Student <br>
+⚡ Building Web Applications and AI-Powered Solutions <br>
+📫 How to reach me: <a href="https://www.linkedin.com/in/sajeerfm">LinkedIn</a> or Email ([sajeerfm93@gmail.com](mailto:sajeerfm93@gmail.com)) <br>
+👯 Open to collaborating on Open Source, Backend Development, and AI Projects <br>
+🚀 Exploring Artificial Intelligence, Agentic AI, Backend Systems, and Scalable Web Applications <br>
+<!--- Adding Tech Stack open Section -->
 
-**Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<b>🛠 Tech Stack/ Certifications</b><br><br>
 
-**Frontend**
+Languages/Script: <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat">  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat"> <br>
+Frameworks and Libraries: <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat"> <br>
+Tools and Platforms: <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">  <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat"> 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Frameworks**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**AI & ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeerrr&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" width="600"/>
-
-</div>
-
----
-
-<!-- Activity Graph -->
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Sajeer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajeerrr&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sajeerrr&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=sajeerrr&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- Connect Section -->
-## 🤝 Let's Connect
+<!--- Footer Stats - Adding the Social Media Status count-->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sajeerrr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<a href="https://github.com/sajeerrr"><img src="https://img.shields.io/github/stars/sajeerrr?label=Sajeerrr%20&style=social"></a>
+<a href=""><img src="https://img.shields.io/github/followers/sajeerrr?style=social"></a>
+<a href="https://linkedin.com/in/sajeerfm">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+</a>
+<a href="mailto:sajeerfm93@gmail.com">
+  <img src="https://img.shields.io/badge/Contact%20Me-Gmail?style=social&logo=gmail" />
+</a>
+</p>
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sajeer_FM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajeerfm)
-[![Gmail](https://img.shields.io/badge/Gmail-sajeerfm93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajeerfm93@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@sajeerrr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajeerrr)
 
-<br/>
+<p align="center">
+  <a href="mailto:sajeerfm93@gmail.com">
+    <img alt="sanjay email" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/naren/mailput.gif" align="left" />
+  </a>
+  <a href="https://notbyai.fyi/#not-by-ai-mission">
+    <img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" align="right" />
+  </a><br>
+  <b>"First, solve the problem. Then, write the code." — John Johnson</b>
+</p>
+<br clear="both" />
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
 
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<!--- Footer End -->
+<!--- Body End -->
