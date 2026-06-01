@@ -14,7 +14,7 @@ $ whoami
 ⚡ Building Web Applications and AI-Powered Solutions <br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/sajeerfm">LinkedIn</a> or Email ([sajeerfm93@gmail.com](mailto:sajeerfm93@gmail.com)) <br>
 👯 Open to collaborating on Open Source, Backend Development, and AI Projects <br>
-🚀 Exploring Artificial Intelligence, Agentic AI, Backend Systems, and Scalable Web Applications <br>
+🚀 Exploring Artificial Intelligence, Agentic Systems, and Backend Development <br>
 <!--- Adding Tech Stack open Section -->
 
 
