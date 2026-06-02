@@ -2,9 +2,9 @@
 $ whoami
 ```
 
-<h1 align="left"> Hi there, I'm <a href="https://www.linkedin.com/in/sajeerfm">Sajeer</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sajeerfm">Sajeer</a> </h1>
 
-### Full Stack Developer • Django • Python • AI
+<h3 align="center"> Software Developer • Django • Python • AI</h3>
 
 -----------------------------------------------------------
 
