@@ -30,7 +30,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-F05032?logo=git
 <table border="0" cellpadding="0" cellspacing="5" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sajeerrr&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajeerrr&show_icons=true&theme=dark&hide_border=true" width="100%" />
     </td>
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=sajeerrr&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="100%" />
