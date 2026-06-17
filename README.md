@@ -4,13 +4,13 @@ $ whoami
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sajeerfm">Sajeer</a> </h1>
 
-<h3 align="center"> Software Developer • Django • Python • AI</h3>
+<h3 align="center">AI Engineer • Backend Developer • Python</h3>
 
 -----------------------------------------------------------
 
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
 
-✨ Software Developer | Python Developer | MCA Student <br>
+✨ Software Developer | AI & Backend Developer | MCA Student <br>
 ⚡ Building Web Applications and AI-Powered Solutions <br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/sajeerfm">LinkedIn</a> or Email ([sajeerfm93@gmail.com](mailto:sajeerfm93@gmail.com)) <br>
 👯 Open to collaborating on Open Source, Backend Development, and AI Projects <br>
