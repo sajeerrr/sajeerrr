@@ -39,7 +39,7 @@ AI/ML & Data Science:
 <table border="0" cellpadding="0" cellspacing="5" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajeerrr&show_icons=true&theme=dark&hide_border=true" width="100%" />
+      <a href="https://bit.ly/gh-readme-profile"><img src="https://gh-readme-profile.vercel.app/api?username=sajeerrr&theme=dark&hide=forks%2Cissues%2Ccontributed&show=discussions_started&revert=true&hide_border=true&hide_stroke=true&icon_color=FF7E26&username_color=FF7E26" alt="GitHub Readme Profile"/></a>
     </td>
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=sajeerrr&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="100%" />
